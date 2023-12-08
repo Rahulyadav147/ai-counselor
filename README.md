@@ -23,7 +23,7 @@ This project is a Streamlit-based application that utilizes a generative AI mode
 
   
 
-## Usage
+## Usages
 
 1. Open the application in a web browser.
 
